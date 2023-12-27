@@ -7,7 +7,7 @@ from rich.markdown import Markdown
 console = Console()
 
 
-#OpenAI.api_key = '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'
+#OpenAI.api_key = 'sk-8wQeP1IDHdxKnC0hGiddT3BlbkFJQf0yg9MzIsS6bdYLIr'
 #OpenAI.api_base = 'http://chatopenai.sboomtools.net:81/api'
 
 def gpt3(messages):
