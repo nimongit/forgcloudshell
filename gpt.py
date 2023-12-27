@@ -1,3 +1,5 @@
+#first edit in github
+
 from openai import OpenAI
 import os
 from rich.console import Console
